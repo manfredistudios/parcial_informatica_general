@@ -20,7 +20,9 @@ h1 {
     background-color: #44AFF2;
     padding: 1em;
     text-align: center;
+    
 }
+
 h2 {
     background-color:#87CEFA ;
     text-align: center;
@@ -109,4 +111,8 @@ address {
 #parrafo1 {
     background-color: #277A8C;
     padding:1em;
+}
+img{
+    max-width:100%;
+    height:auto;
 }
