@@ -81,7 +81,7 @@ main {
 }
 #articulo2 {
   background-color:#277A8C;
-  padding:inherit;
+  padding:1em;
 }
 section {
     background-color: #44AFF2;
@@ -95,10 +95,7 @@ article {
 #lista { 
     background-color:#87CEFA ;
     }
-#foto{
-    display: inline;
-    
-}
+
 address {
     background-color: #44AFF2;
     padding:1em;
