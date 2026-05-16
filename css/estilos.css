@@ -1,0 +1,81 @@
+* { box-sizing: border-box;}
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url('../img/fondo.png');
+	font-family: "Hanken Grotesk", sans-serif;
+}
+#contenedor {
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+header,footer {background-color:#073040;
+           padding: 1em;
+           text-align: center;}
+
+h1, h2 {
+    background-color: #44AFF2;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+	background-color:#87CEFA;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+nav li {
+	display: inline-block;	
+}
+nav a {
+	font-size: 1.4em;
+	line-height: 2.2em;
+	padding: 0.4em 1em;
+	text-align: center;
+	text-decoration: none;
+}
+nav a:link {
+	background-color:#87CEFA;
+	color: #000;
+}
+nav a:visited {
+	background-color:#87CEFA;
+	color: #000;
+}
+nav a:hover {
+	background-color: #000;
+	color: #FFF;
+}
+nav a:active {
+	background-color: #F00;
+	color: #FFF;
+}
+
+main {
+    background-color:#277A8C;
+    padding:1em;
+}
+#articulo2 {
+  background-color:#277A8C;
+  padding:inherit;
+}
+section {
+    background-color: #44AFF2;
+    padding:1em;
+}
+article img {
+    background-color: #87CEFA;
+    padding:1em;
+}
+p, h3 {
+    background-color: #87CEFA;
+    padding: 1em;
+}
+#lista { 
+    background-color:#87CEFA ;
+    }
