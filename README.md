@@ -1,2 +1,3 @@
-# parcial_informatica_general
-primer parcial
+Garmán Eduardo Manfredi
+Primer parcial - Informática General
+Artes Multimediales - UNA
