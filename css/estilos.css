@@ -4,6 +4,7 @@ body {
 	padding: 0;
 	background-image: url('../img/fondo.png');
 	font-family: "Hanken Grotesk", sans-serif;
+    line-height:1.6;
 }
 #contenedor {
 	width: 100%;
@@ -14,12 +15,15 @@ body {
 
 header,footer {background-color:#073040;
            padding: 1em;
-           text-align: center;}
+           text-align: center;
+           
+        }
 
 h1 {
     background-color: #44AFF2;
     padding: 1em;
     text-align: center;
+    border-radius:10px;
     
 }
 
@@ -27,6 +31,7 @@ h2 {
     background-color:#87CEFA ;
     text-align: center;
     padding: 1em;
+    border-radius:10px;
 }
 .barlow-bold {
   font-family: "Barlow", sans-serif;
@@ -78,6 +83,7 @@ nav a:active {
 main {
     background-color:#277A8C;
     padding:1em;
+    
 }
 #articulo2 {
   background-color:#277A8C;
@@ -99,15 +105,18 @@ article {
 address {
     background-color: #44AFF2;
     padding:1em;
+    border-radius:10px;
 }
 #piedefoto {
     background-color: #44AFF2;
     text-align: center;
     padding: 1em;
+    border-radius:10px;
 }
 #parrafo1 {
     background-color: #277A8C;
     padding:1em;
+    
 }
 img{
     max-width:100%;
